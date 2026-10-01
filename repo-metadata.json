@@ -1,0 +1,12 @@
+{
+  "description": "Bulk Cloudflare Zone operations CLI: batch cache invalidation, Under Attack mode, and DNS management",
+  "topics": [
+    "cloudflare",
+    "cloudflare-api",
+    "dns-management",
+    "ddos-protection",
+    "devops-tool",
+    "sysadmin",
+    "cli"
+  ]
+}
