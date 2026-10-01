@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "node --test test/**/*.test.js"
+    "test": "node --test"
   },
   "author": "Eng. MHD. Shadi AL-Hasan <mhd.shadi.alhasan@gmail.com>",
   "license": "MIT"
