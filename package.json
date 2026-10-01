@@ -1,13 +1,14 @@
 {
   "name": "cf-zone-ops",
-  "version": "1.0.0",
-  "description": "Bulk Cloudflare Zone Operations & DNS Management CLI",
+  "version": "1.1.0",
+  "description": "Bulk Cloudflare Zone Operations & Fleet Management CLI",
   "main": "index.js",
   "bin": {
     "cf-ops": "./index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node --test test/**/*.test.js"
   },
   "author": "Eng. MHD. Shadi AL-Hasan <mhd.shadi.alhasan@gmail.com>",
   "license": "MIT"
