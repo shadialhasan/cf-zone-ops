@@ -3,10 +3,10 @@
 > **Topics:** `cloudflare` `cloudflare-api` `dns-management` `ddos-protection` `devops-tool` `sysadmin` `cli`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/cf-zone-ops/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/cf-zone-ops/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Cloudflare: API v4](https://img.shields.io/badge/Cloudflare-API%20v4-orange.svg)](https://cloudflare.com)
-[![CI/CD Pipeline](https://github.com/MobileConduit/cf-zone-ops/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/cf-zone-ops/actions)
+[![CI/CD Pipeline](https://github.com/shadialhasan/cf-zone-ops/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/cf-zone-ops/actions)
 [![Node.js 18+](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org)
 
 High-productivity CLI utility and fleet management tool tailored for infrastructure administrators managing portfolios of hundreds of domains. Execute bulk cache invalidation, instant DDoS "Under Attack" shielding, and batch security updates across entire zone fleets.
@@ -52,7 +52,7 @@ flowchart TD
 
 ### 1. Installation
 ```bash
-git clone https://github.com/MobileConduit/cf-zone-ops.git
+git clone https://github.com/shadialhasan/cf-zone-ops.git
 cd cf-zone-ops
 npm link  # Optional: exposes global 'cf-ops' CLI binary
 ```
@@ -139,7 +139,7 @@ npm test
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
